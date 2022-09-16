@@ -1,1 +1,3 @@
-- This is yet another account of Erika Xie 💙💖🤍
+- 💙 This is yet another account of Erika Xie.
+- 💖 My research interest lies on mathmatical logic.
+- 🤍 I am curisous about documenting software: typesetting, music production, editor...
