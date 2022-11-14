@@ -1,3 +1,5 @@
-- 💙 This is yet another account of Erika Xie.
-- 💖 My research interest lies on mathmatical logic.
-- 🤍 I am curisous about documenting software: typesetting, music production, editor...
+I am Erika Xie:
+
+- 💙 I love Maine Coon.
+- 💖 My research interest lies in mathmatical logic & category theory.
+- 🤍 Haskell/Agda/Scheme.
